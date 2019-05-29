@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LondonSpider", "LondonSpider\LondonSpider.csproj", "{8156FD2C-49D3-4E9F-889E-5F02139ED592}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8156FD2C-49D3-4E9F-889E-5F02139ED592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8156FD2C-49D3-4E9F-889E-5F02139ED592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8156FD2C-49D3-4E9F-889E-5F02139ED592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8156FD2C-49D3-4E9F-889E-5F02139ED592}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D018ED7-D737-4F16-BC1F-9F7D0586FDE9}
+	EndGlobalSection
+EndGlobal
